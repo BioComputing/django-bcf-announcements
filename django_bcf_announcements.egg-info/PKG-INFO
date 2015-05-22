@@ -1,0 +1,36 @@
+Metadata-Version: 1.1
+Name: django-bcf-announcements
+Version: 0.1
+Summary: A django app for site-wide and user-targetted announcements.
+Home-page: https://github.com/nickeddy
+Author: Nicholas Eddy
+Author-email: eddy.nicholas@gmail.com
+License: BSD License
+Description: =====
+        BCF Announcements
+        =====
+        
+        bcf-announcements is a Django app for site-wide and user-targetted announcements.
+        
+        Quick start
+        -----------
+        
+        1. Add 'bcf-announcements' to your INSTALLED_APPS setting::
+        
+            INSTALLED_APPS = (
+                ...
+                'bcf-announcements',
+            )
+        
+        2. Include the bcf-announcements URLconf in your project urls.py::
+        
+            url(r'', include('bcf-announcements.urls')),
+        
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP

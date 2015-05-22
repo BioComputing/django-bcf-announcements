@@ -1,0 +1,14 @@
+README.rst
+setup.py
+bcf-announcements/__init__.py
+bcf-announcements/admin.py
+bcf-announcements/api.py
+bcf-announcements/choices.py
+bcf-announcements/models.py
+bcf-announcements/serializers.py
+bcf-announcements/urls.py
+django_bcf_announcements.egg-info/PKG-INFO
+django_bcf_announcements.egg-info/SOURCES.txt
+django_bcf_announcements.egg-info/dependency_links.txt
+django_bcf_announcements.egg-info/requires.txt
+django_bcf_announcements.egg-info/top_level.txt
